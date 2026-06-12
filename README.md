@@ -5,8 +5,8 @@ Designed for troubleshooting, system auditing, and quick environment introspecti
 # Overview
 captureconfigs provides simple, portable scripts to extract key operational and configuration details from Linux systems, including:
 
-Service and system accounts
-Running services and agents
-Installed packages (e.g., Python)
-Docker environment details
-Cron jobs and scheduled tasks
+Service and system accounts,
+Running services and agents,
+Installed packages (e.g., Python),
+Docker environment details,
+Cron jobs and scheduled tasks.
